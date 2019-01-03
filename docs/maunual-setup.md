@@ -59,3 +59,5 @@ Simply run the previous _list jenkins plugins_ step, to descover what pluggins w
 ```
 docker exec -it myjenkins ls /var/jenkins_home/plugins/ | grep -v jpi
 ```
+
+[Back To Home](../)

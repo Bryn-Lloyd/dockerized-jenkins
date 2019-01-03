@@ -26,15 +26,15 @@ Once the docker image is customised to requirment, the above will work OOTB (Out
 
 To build the docker image, first you will need to go over the following:
 
- * [Manual Setup](maunual-setup.md)
- * [Tool Installation](tool-installation.md)
+ * [Manual Setup](docs/maunual-setup.md)
+ * [Tool Installation](docs/tool-installation.md)
  * 
 
 ### Tips and Tricks
 
 Here are a couple of helpful pages:
 
- * [Common Docker Commands](common-docker-commands.md)
+ * [Common Docker Commands](docs/common-docker-commands.md)
 
 ## Summary
 
