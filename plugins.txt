@@ -1,0 +1,15 @@
+script-security
+antisamy-markup-formatter
+timestamper
+durable-task
+resource-disposer
+jquery-detached
+ace-editor
+handlebars
+momentjs
+display-url-api
+mailer
+mapdb-api
+matrix-auth
+pam-auth
+ldap
